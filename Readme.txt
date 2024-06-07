@@ -25,5 +25,3 @@ FIRST DOWNLOAD
 
 Username: admin
 Password: admin
-
-Go to www.campcodes.com for more source code and projects!
